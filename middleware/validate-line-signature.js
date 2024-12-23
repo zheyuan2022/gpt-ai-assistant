@@ -12,3 +12,4 @@ const validateLineSignature = (req, res, next) => {
 };
 
 export default validateLineSignature;
+console.log(validateLineSignature)
